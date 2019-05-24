@@ -1,4 +1,6 @@
 <?php
+
 echo "Aprendendo sobre versionamento";
-echo "Partiu férias";
+echo "Testando possíveis erros";
+
 ?>
