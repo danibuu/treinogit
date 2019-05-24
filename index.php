@@ -1,3 +1,3 @@
 <?php
-echo "Testando repositório com Git";
+echo "Aprendendo Git";
 ?>
