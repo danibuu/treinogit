@@ -1,3 +1,4 @@
 <?php
-echo "Aprendendo Git";
+echo "Aprendendo sobre versionamento";
+echo "Partiu férias";
 ?>
